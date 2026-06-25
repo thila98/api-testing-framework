@@ -1,0 +1,21 @@
+# Environment variables - NEVER upload this
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+
+# Reports - generated files, not source code
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
